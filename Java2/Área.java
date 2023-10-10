@@ -1,3 +1,4 @@
+package Java2;
 import java.util.Scanner;
 
 public class Área {

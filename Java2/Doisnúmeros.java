@@ -1,8 +1,9 @@
+package Java2;
 import java.util.Scanner;
 
-public class média {
+public class Doisnúmeros {
     public static void main(String[] args) {
-        
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Digite o primeiro número: ");
@@ -11,12 +12,9 @@ public class média {
         System.out.print("Digite o segundo número: ");
         int num2 = scanner.nextInt();
         
-        System.out.print("Digite o terceiro número: ");
-        int num3 = scanner.nextInt();
-        
-        int média = num1 + num2 + num3 / 3;
+        int soma = num1 + num2;
 
-        System.out.println("Sua média é: " + média);
-         scanner.close(); 
-    }
+        System.out.println("A soma é: " + soma);
+         scanner.close();
+    }     
 }

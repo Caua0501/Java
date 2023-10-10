@@ -1,3 +1,4 @@
+package Java2;
 public class números {
    public static void main(String[] args) {
     
