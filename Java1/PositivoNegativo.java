@@ -14,5 +14,6 @@ public class PositivoNegativo {
         } else {
             System.out.println("O número é positivo");
         }
+        scanner.close();
     }
 }
