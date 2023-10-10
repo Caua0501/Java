@@ -10,5 +10,6 @@ public class idade {
 
         System.out.print("Digite sua idade ");
         int idade = scanner.nextInt();
-    }
+         System.out.print("Sua idade é: " + idade);
+    } 
 }
