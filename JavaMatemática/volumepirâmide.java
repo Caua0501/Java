@@ -1,3 +1,4 @@
+package JavaMatemática;
 public class volumepirâmide {
     public static void main(String[] args) {
         int h = 8;
