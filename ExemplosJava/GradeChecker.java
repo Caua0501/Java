@@ -1,3 +1,4 @@
+package ExemplosJava;
 
 public class GradeChecker {
     public static void main(String[] args) {

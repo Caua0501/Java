@@ -1,3 +1,4 @@
+package ExemplosJava;
 
 public class NumberPrinter {
     public static void main(String[] args) {
