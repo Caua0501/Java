@@ -6,19 +6,18 @@ public class ÁreaTrapézio {
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Escreva o valor da base maior");
-        int basemaior = nextInt();
+        int basemaior = scan.nextInt();
 
         System.out.println("Escreva o valor da base menor");
-        int basemenor = nextInt();
+        int basemenor = scan.nextInt();
 
          System.out.println("Escreva o valor da altura");
-        int altura = nextInt();
+        int altura = scan.nextInt();
 
         int ValorBase;
 
+        scan.close();
     }
 
-    public static int ValorBase {
-
-    }
+   
 }

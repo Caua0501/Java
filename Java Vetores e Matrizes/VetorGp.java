@@ -1,6 +1,6 @@
-public class OrdenaçãoNúmeros {
+public class VetorGp {
     public static void main(String[] args) {
-        int[] lista = {5, 2, 8, 1, 9, 3};
+        int[] lista = {9, 15, 19, 21, 159, 10, 11, 32};
         ordenaLista(lista);
 
 
