@@ -11,11 +11,7 @@ public class MaiorNumero {
         System.out.println("O Maior Número é: " + num1); }
         else if (num2 > num1) { 
         System.out.println("O Maior Número é: " + num2); }
-        
-
-        
-            
-
+    
     } 
 }
 
