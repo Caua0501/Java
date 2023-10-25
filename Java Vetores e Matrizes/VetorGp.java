@@ -1,6 +1,6 @@
 public class VetorGp {
     public static void main(String[] args) {
-        int[] lista = {9, 15, 19, 21, 159, 10, 11, 32};
+        int[] lista = {9, 15, 19, 21, 1 , 59, 10, 11, 32};
         ordenaLista(lista);
 
 
@@ -15,7 +15,7 @@ public class VetorGp {
             // Outro loop para comparar e trocar os elementos
             for(int j = 0; j < lista.length - 1; j++) {
                 // Compara dois elementos adjacentes
-                if (lista[j] > lista[j + 1]) {
+                if (lista[j] < lista[j + 1]) {
                     // Troca os elementos se estiverem na ordem errada
                     int temp = lista[j];
                     lista[j] = lista[j + 1];
