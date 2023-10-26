@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "Java",
+			"path": "../../../../../../Java/Java"
+		},
+		{
+			"name": "trabalhojava",
+			"path": "../../../../.."
+		},
+		{
+			"name": "Java",
+			"path": "../../../../../../Java"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
